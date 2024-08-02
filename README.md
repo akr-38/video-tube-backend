@@ -4,4 +4,4 @@ This Project uses all standard practices like JWT, bcrypt, access tokens, refres
 
 Feel free to have a look at it 
 
-@chai-backend
+[chai-backend](https://github.com/hiteshchoudhary/chai-backend/tree/main)
